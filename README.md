@@ -44,6 +44,4 @@ This file stores some global variables.
 The API can be found here: https://spark-se-assessment-api.azurewebsites.net/api
 You can explore the API routes using the Swagger UI (it might take ~15s to load): https://spark-se-assessment.azurewebsites.net/api/ui
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
