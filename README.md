@@ -42,6 +42,7 @@ This file stores some global variables.
 ### API
 
 The API can be found here: https://spark-se-assessment-api.azurewebsites.net/api
+
 You can explore the API routes using the Swagger UI (it might take ~15s to load): https://spark-se-assessment.azurewebsites.net/api/ui
 
 
